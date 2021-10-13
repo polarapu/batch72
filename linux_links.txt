@@ -1,6 +1,0 @@
-Vm ware 15   
-https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
-Centos 8 iso file 
-http://centos.excellmedia.net/8.4.2105/isos/x86_64/
-Putty download
-https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
