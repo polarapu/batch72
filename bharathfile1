@@ -1,0 +1,9 @@
+this is line one
+git reset head bharathfile1
+git reset --soft cid
+git reset --hard cid
+git reset --mixed cid
+
+ n-1
+
+end
