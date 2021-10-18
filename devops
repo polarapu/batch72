@@ -1,19 +1,21 @@
 git init
 Hello all
 Test data on git file
-git config --global user.name "Polarapu Prasad"
+git config --global ddddddddddddddddddddddduser.name "Polarapu Prasad"
 git config --global user.email "devopstraining2015@gmail.com"
 
 git config --list
 
 git config --global --unset user.name
 git config --global --unset user.email
-
-git config --global user.name "Polarapu Prasad"
-git config --global user.email "devopstraining2015@gmail.com"
+nfsdkjfjksdjkskd
+git config --glomdssfjsdksadbal user.name "Polarapu Prasad"
+git config --glodjsajdjsadsdbal user.email "devopstraining2015@gmail.com"
 
 --------------------------------------
 touch file1
+Touch g1 g2
+
 ls
 git status
 git add file1
@@ -29,24 +31,25 @@ ls
 git status
 git add file2 file3 file4
 or
-git add *
-or
 git add .
 or
-git add -A
+ksdkjjsdsdsadsddgit add -A
 git status
 git commit -m "label"
 git log
 git show cid
 
 -----------------------
-git clone https://github.com/polarapu/batch72.git
+git clone https://gdsdsdsddsddithub.com/polarapu/batch72.git
 ls
 cd batch72
 touch devops
 git add devops
 git commit -m "test commit"
-git push
+git pushvdskfksdfls
 
+Test line1
+line2
+line3
 
 
